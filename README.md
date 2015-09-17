@@ -1,6 +1,8 @@
 # chat
 基于野狗(WildDog)和七牛的聊天室APP
+
 开发工具Hbuilder （html5 plus）
+
 #功能介绍
 1、首次使用需设置昵称和头像，然后就可以进入聊天室
 
