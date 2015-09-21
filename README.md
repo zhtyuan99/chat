@@ -21,4 +21,7 @@ php/ 服务端程序(文件上传和更新服务)
 
 修改 php/avator.php 和 php/media.php 替换自己的七牛域名
 
+#联系我
+
+QQ 347495994
 
